@@ -47,6 +47,9 @@
 ![WhatsApp Image 2024-04-18 at 1 24 51 PM](https://github.com/amruthavarshini-gopal/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/145742940/8d99cdce-1980-4bf5-9ee4-814070d2cf73)
 
 
+
+
+
 ### Name: Amruthavarshini Gopal
 ### Register Number: 212223230013 
 
